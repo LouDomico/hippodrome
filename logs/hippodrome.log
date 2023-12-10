@@ -1,15 +1,40 @@
-2023-12-10 15:27:42,491  INFO main Main.main(Main.java:23) - Начало скачек. Количество участников: 7
-2023-12-10 15:28:02,792  INFO main Main.main(Main.java:33) - Окончание скачек. Победитель: Вишня
-2023-12-10 15:34:47,405  INFO main - Начало скачек. Количество участников: 7
-2023-12-10 15:35:07,713  INFO main - Окончание скачек. Победитель: Вишня
-2023-12-10 15:36:25,196  INFO main - Начало скачек. Количество участников: 7
-2023-12-10 15:36:45,512  INFO main - Окончание скачек. Победитель: Вишня
-2023-12-10 15:37:16,232 ERROR main - Horses list is empty
-2023-12-10 15:37:16,249 ERROR main - Horses list is null
-2023-12-10 15:37:17,322 ERROR main - Name is blank
-2023-12-10 15:37:17,329 ERROR main - Name is blank
-2023-12-10 15:37:17,332 ERROR main - Name is blank
-2023-12-10 15:37:17,335 ERROR main - Name is blank
-2023-12-10 15:37:17,340 ERROR main - Name is null
-2023-12-10 15:37:17,349 ERROR main - Speed is negative
-2023-12-10 15:37:17,354 ERROR main - Distance is negative
+
+2023-12-10 15:50:31,486 ERROR main - Horses list is empty
+2023-12-10 15:50:31,502 ERROR main - Horses list is null
+2023-12-10 15:50:32,707 ERROR main - Name is blank
+2023-12-10 15:50:32,717 ERROR main - Name is blank
+2023-12-10 15:50:32,722 ERROR main - Name is blank
+2023-12-10 15:50:32,724 ERROR main - Name is blank
+2023-12-10 15:50:32,731 ERROR main - Name is null
+2023-12-10 15:50:32,739 ERROR main - Speed is negative
+2023-12-10 15:50:32,744 ERROR main - Distance is negative
+2023-12-10 15:51:28,057  INFO main - Начало скачек. Количество участников: 7
+2023-12-10 15:51:52,250 ERROR main - Horses list is empty
+2023-12-10 15:51:52,265 ERROR main - Horses list is null
+2023-12-10 15:51:53,387 ERROR main - Name is blank
+2023-12-10 15:51:53,397 ERROR main - Name is blank
+2023-12-10 15:51:53,401 ERROR main - Name is blank
+2023-12-10 15:51:53,405 ERROR main - Name is blank
+2023-12-10 15:51:53,413 ERROR main - Name is null
+2023-12-10 15:51:53,425 ERROR main - Speed is negative
+2023-12-10 15:51:53,430 ERROR main - Distance is negative
+2023-12-10 16:23:45,100 ERROR main - Horses list is empty
+2023-12-10 16:23:45,113 ERROR main - Horses list is null
+2023-12-10 16:23:46,282 ERROR main - Name is blank
+2023-12-10 16:23:46,290 ERROR main - Name is blank
+2023-12-10 16:23:46,293 ERROR main - Name is blank
+2023-12-10 16:23:46,296 ERROR main - Name is blank
+2023-12-10 16:23:46,301 ERROR main - Name is null
+2023-12-10 16:23:46,309 ERROR main - Speed is negative
+2023-12-10 16:23:46,313 ERROR main - Distance is negative
+2023-12-10 16:29:47,849 ERROR main - Horses list is empty
+2023-12-10 16:29:47,863 ERROR main - Horses list is null
+2023-12-10 16:29:49,010 ERROR main - Name is blank
+2023-12-10 16:29:49,019 ERROR main - Name is blank
+2023-12-10 16:29:49,022 ERROR main - Name is blank
+2023-12-10 16:29:49,025 ERROR main - Name is blank
+2023-12-10 16:29:49,029 ERROR main - Name is null
+2023-12-10 16:29:49,038 ERROR main - Speed is negative
+2023-12-10 16:29:49,042 ERROR main - Distance is negative
+2023-12-10 16:33:17,458  INFO main - Начало скачек. Количество участников: 7
+2023-12-10 16:33:37,865  INFO main - Окончание скачек. Победитель: Pegasus
